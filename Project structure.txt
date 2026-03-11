@@ -1,0 +1,14 @@
+PG-Finder-Project
+│
+├── index.html
+│
+├── css
+│   └── style.css
+│
+├── js
+│   └── script.js
+│
+└── images
+    ├── pg1.jpg
+    ├── pg2.jpg
+    └── pg3.jpg
